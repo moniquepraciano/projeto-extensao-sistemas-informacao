@@ -1,5 +1,5 @@
 # projeto-extensao-sistemas-informacao
-# Projeto de Extensão - Sistemas de Informação e Sociedade
+# Tecnologia e Cidadania: A inclusão digital como ferramenta de transformação social
 
 ## Objetivo
 Capacitar pequenos empreendedores no uso de ferramentas digitais para controle financeiro e de estoque.
